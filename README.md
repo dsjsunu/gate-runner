@@ -6,6 +6,10 @@
 
 纯前端，零构建，双击即玩。
 
+> **这是主版本（3D 网页版）。**
+> 另有一个抖音像塑移植版：[gate-runner-effect](https://github.com/dsjsunu/gate-runner-effect)。
+> 受像塑引擎限制（没有 GPU 实例化，人数上限只有 24），那个版本的表现和完成度都不如这里，仅作特效侧留档。
+
 ![交战](docs/combat.png)
 
 ---
